@@ -1,0 +1,44 @@
+
+.body {
+    height: 100vh;
+    width: 100wh;
+    margin: 0;
+    background-color: white;
+
+
+
+}
+.header {
+    background-color: rgb(73, 72, 72);
+    height: 100px;
+    width: 100vw;
+    /* margin-bottom: 100px */
+
+}
+
+.main-content-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color:  rgb(223, 217, 217);
+}
+
+.main-content {
+    background-color: rgb(255, 251, 251);
+    
+    width: 60%;
+    height: 50vh;
+    position: relative;
+  }
+    
+
+.footer {
+   background-color: rgb(43, 42, 42); 
+   height: 60px;
+   width: 100%;
+   position: absolute;
+   bottom: 0;
+   
+   
+}
+
