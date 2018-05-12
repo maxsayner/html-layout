@@ -1,0 +1,44 @@
+.header {
+    background-color: rgb(228, 214, 214);
+    height: 80px;
+    width: 70wh;
+
+
+}
+
+.main-content {
+    background-color: white;
+    height: 300px;
+    width: 70wh;
+
+}
+
+.box-container{
+    
+}
+
+.box-one {
+    background-color: rgb(81, 129, 219);
+    height: 80px;
+    width: 70wh;
+
+
+}
+
+.box-two {
+    background-color: rgb(79, 180, 184);
+    height: 80px;
+    width: 70wh;
+}
+
+.box-three {
+    background-color: rgb(224, 231, 119);
+    height: 80px;
+    width: 70wh;
+}
+
+.box-four {
+    background-color: rgb(230, 255, 5);
+    height: 80px;
+    width: 70wh;
+}
