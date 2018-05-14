@@ -53,7 +53,9 @@ margin-bottom: 20px;
 
 .container-three {
     display: flex;
+    text-align: center;
     justify-content: center;
+    align-items: center;
     height: 20vh;
     width: 50vw;
     border: 1px solid black;
